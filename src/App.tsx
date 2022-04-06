@@ -1,12 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import 'tw-elements';
+import AppRouter from './routes/Approuter';
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <AppRouter />
   );
 }
 

@@ -1,0 +1,1 @@
+export type electionTypes = "" | "Vice President" | "Technical Lead" | "Cultural Lead" | "Treasurer"
